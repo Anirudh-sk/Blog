@@ -16,7 +16,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Run Locally
 
-Clone the project
+Clone the project repo
 
 ```bash
   git clone https://github.com/Anirudh-sk/Blog
