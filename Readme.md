@@ -8,10 +8,10 @@ This is a simpe blog made using node.js and mongoDB
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`PORT = Port number`
-`MONGO_URI = Your MONGODB URL`
-`GOOGLE_CLIENT_ID= Google client ID for Passport`
-`GOOGLE_CLIENT_SECRET= Your Secrete 🔐`
+`PORT = Port number` <br/>
+`MONGO_URI = Your MONGODB URL` <br/>
+`GOOGLE_CLIENT_ID= Google client ID for Passport` <br/>
+`GOOGLE_CLIENT_SECRET= Your Secrete 🔐` <br/>
 
 
 ## Run Locally
